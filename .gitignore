@@ -1,0 +1,23 @@
+# Generated files
+skills-catalog.json
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+
+# Node (for npx skills)
+node_modules/
+
+# Editor
+.vscode/
+.idea/
+
+# Local Claude settings
+.claude/
