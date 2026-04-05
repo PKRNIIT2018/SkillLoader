@@ -1,1 +1,1 @@
-../../../engineering/dependency-auditor/SKILL.md
+../../../claude-skills/engineering/dependency-auditor/SKILL.md

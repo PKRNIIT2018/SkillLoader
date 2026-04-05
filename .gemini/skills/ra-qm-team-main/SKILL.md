@@ -1,1 +1,1 @@
-../../../ra-qm-team/SKILL.md
+../../../claude-skills/ra-qm-team/SKILL.md

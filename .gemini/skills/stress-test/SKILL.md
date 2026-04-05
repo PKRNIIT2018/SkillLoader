@@ -1,1 +1,1 @@
-../../../c-level-advisor/executive-mentor/skills/stress-test/SKILL.md
+../../../claude-skills/c-level-advisor/executive-mentor/skills/stress-test/SKILL.md

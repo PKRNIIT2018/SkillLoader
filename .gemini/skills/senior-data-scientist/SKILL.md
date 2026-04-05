@@ -1,1 +1,1 @@
-../../../engineering-team/senior-data-scientist/SKILL.md
+../../../claude-skills/engineering-team/senior-data-scientist/SKILL.md

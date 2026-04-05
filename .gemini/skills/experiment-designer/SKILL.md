@@ -1,1 +1,1 @@
-../../../product-team/experiment-designer/SKILL.md
+../../../claude-skills/product-team/experiment-designer/SKILL.md

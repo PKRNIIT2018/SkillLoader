@@ -1,1 +1,1 @@
-../../../marketing-skill/app-store-optimization/SKILL.md
+../../../claude-skills/marketing-skill/app-store-optimization/SKILL.md

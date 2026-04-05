@@ -1,1 +1,1 @@
-../../../project-management/SKILL.md
+../../../claude-skills/project-management/SKILL.md

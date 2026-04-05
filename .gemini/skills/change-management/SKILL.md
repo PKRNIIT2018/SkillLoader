@@ -1,1 +1,1 @@
-../../../c-level-advisor/change-management/SKILL.md
+../../../claude-skills/c-level-advisor/change-management/SKILL.md

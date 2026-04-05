@@ -1,1 +1,1 @@
-../../../product-team/landing-page-generator/SKILL.md
+../../../claude-skills/product-team/landing-page-generator/SKILL.md

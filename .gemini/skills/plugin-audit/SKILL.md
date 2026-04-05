@@ -1,1 +1,1 @@
-../../../commands/plugin-audit.md
+../../../claude-skills/commands/plugin-audit.md

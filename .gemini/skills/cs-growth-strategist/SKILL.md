@@ -1,1 +1,1 @@
-../../../agents/business-growth/cs-growth-strategist.md
+../../../claude-skills/agents/business-growth/cs-growth-strategist.md

@@ -1,1 +1,1 @@
-../../../commands/seo-auditor.md
+../../../claude-skills/commands/seo-auditor.md

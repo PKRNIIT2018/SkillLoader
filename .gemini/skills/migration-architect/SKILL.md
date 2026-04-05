@@ -1,1 +1,1 @@
-../../../engineering/migration-architect/SKILL.md
+../../../claude-skills/engineering/migration-architect/SKILL.md

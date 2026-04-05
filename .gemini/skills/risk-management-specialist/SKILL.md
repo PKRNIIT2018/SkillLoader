@@ -1,1 +1,1 @@
-../../../ra-qm-team/risk-management-specialist/SKILL.md
+../../../claude-skills/ra-qm-team/risk-management-specialist/SKILL.md

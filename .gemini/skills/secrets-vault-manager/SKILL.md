@@ -1,1 +1,1 @@
-../../../engineering/secrets-vault-manager/SKILL.md
+../../../claude-skills/engineering/secrets-vault-manager/SKILL.md

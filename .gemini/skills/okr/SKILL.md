@@ -1,1 +1,1 @@
-../../../commands/okr.md
+../../../claude-skills/commands/okr.md

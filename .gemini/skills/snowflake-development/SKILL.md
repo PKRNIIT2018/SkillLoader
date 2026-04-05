@@ -1,1 +1,1 @@
-../../../engineering-team/snowflake-development/SKILL.md
+../../../claude-skills/engineering-team/snowflake-development/SKILL.md

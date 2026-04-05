@@ -1,1 +1,1 @@
-../../../engineering/agent-workflow-designer/SKILL.md
+../../../claude-skills/engineering/agent-workflow-designer/SKILL.md

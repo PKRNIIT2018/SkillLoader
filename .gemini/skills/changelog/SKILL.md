@@ -1,1 +1,1 @@
-../../../commands/changelog.md
+../../../claude-skills/commands/changelog.md

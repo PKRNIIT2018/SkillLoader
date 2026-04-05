@@ -1,1 +1,1 @@
-../../../marketing-skill/content-strategy/SKILL.md
+../../../claude-skills/marketing-skill/content-strategy/SKILL.md

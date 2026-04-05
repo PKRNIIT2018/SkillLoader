@@ -1,1 +1,1 @@
-../../../c-level-advisor/cro-advisor/SKILL.md
+../../../claude-skills/c-level-advisor/cro-advisor/SKILL.md

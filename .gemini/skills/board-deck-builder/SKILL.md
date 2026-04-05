@@ -1,1 +1,1 @@
-../../../c-level-advisor/board-deck-builder/SKILL.md
+../../../claude-skills/c-level-advisor/board-deck-builder/SKILL.md

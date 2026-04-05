@@ -1,1 +1,1 @@
-../../../agents/personas/solo-founder.md
+../../../claude-skills/agents/personas/solo-founder.md

@@ -1,1 +1,1 @@
-../../../c-level-advisor/executive-mentor/skills/postmortem/SKILL.md
+../../../claude-skills/c-level-advisor/executive-mentor/skills/postmortem/SKILL.md

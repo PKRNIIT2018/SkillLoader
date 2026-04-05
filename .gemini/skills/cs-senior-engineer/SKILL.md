@@ -1,1 +1,1 @@
-../../../agents/engineering/cs-senior-engineer.md
+../../../claude-skills/agents/engineering/cs-senior-engineer.md

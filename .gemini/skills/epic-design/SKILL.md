@@ -1,1 +1,1 @@
-../../../engineering-team/epic-design/SKILL.md
+../../../claude-skills/engineering-team/epic-design/SKILL.md

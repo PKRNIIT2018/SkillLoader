@@ -1,1 +1,1 @@
-../../../agents/engineering-team/cs-workspace-admin.md
+../../../claude-skills/agents/engineering-team/cs-workspace-admin.md

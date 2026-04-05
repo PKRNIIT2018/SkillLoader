@@ -1,1 +1,1 @@
-../../../business-growth/sales-engineer/SKILL.md
+../../../claude-skills/business-growth/sales-engineer/SKILL.md

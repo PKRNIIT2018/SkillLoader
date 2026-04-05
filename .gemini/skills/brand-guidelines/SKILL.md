@@ -1,1 +1,1 @@
-../../../marketing-skill/brand-guidelines/SKILL.md
+../../../claude-skills/marketing-skill/brand-guidelines/SKILL.md

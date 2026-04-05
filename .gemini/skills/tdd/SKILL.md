@@ -1,1 +1,1 @@
-../../../commands/tdd.md
+../../../claude-skills/commands/tdd.md

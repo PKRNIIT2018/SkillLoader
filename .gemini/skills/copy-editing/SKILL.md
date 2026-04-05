@@ -1,1 +1,1 @@
-../../../marketing-skill/copy-editing/SKILL.md
+../../../claude-skills/marketing-skill/copy-editing/SKILL.md

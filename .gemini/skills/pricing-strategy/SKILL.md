@@ -1,1 +1,1 @@
-../../../marketing-skill/pricing-strategy/SKILL.md
+../../../claude-skills/marketing-skill/pricing-strategy/SKILL.md

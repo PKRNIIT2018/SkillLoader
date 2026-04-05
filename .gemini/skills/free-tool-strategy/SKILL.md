@@ -1,1 +1,1 @@
-../../../marketing-skill/free-tool-strategy/SKILL.md
+../../../claude-skills/marketing-skill/free-tool-strategy/SKILL.md

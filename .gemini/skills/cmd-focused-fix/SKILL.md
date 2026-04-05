@@ -1,1 +1,1 @@
-../../../commands/focused-fix.md
+../../../claude-skills/commands/focused-fix.md

@@ -1,1 +1,1 @@
-../../../c-level-advisor/ma-playbook/SKILL.md
+../../../claude-skills/c-level-advisor/ma-playbook/SKILL.md

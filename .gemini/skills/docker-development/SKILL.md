@@ -1,1 +1,1 @@
-../../../engineering/docker-development/SKILL.md
+../../../claude-skills/engineering/docker-development/SKILL.md

@@ -1,1 +1,1 @@
-../../../product-team/code-to-prd/SKILL.md
+../../../claude-skills/product-team/code-to-prd/SKILL.md

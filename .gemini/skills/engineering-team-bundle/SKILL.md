@@ -1,1 +1,1 @@
-../../../engineering-team/SKILL.md
+../../../claude-skills/engineering-team/SKILL.md

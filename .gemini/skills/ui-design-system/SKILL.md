@@ -1,1 +1,1 @@
-../../../product-team/ui-design-system/SKILL.md
+../../../claude-skills/product-team/ui-design-system/SKILL.md

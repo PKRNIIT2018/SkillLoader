@@ -1,1 +1,1 @@
-../../../ra-qm-team/regulatory-affairs-head/SKILL.md
+../../../claude-skills/ra-qm-team/regulatory-affairs-head/SKILL.md

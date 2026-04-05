@@ -1,1 +1,1 @@
-../../../engineering-team/senior-frontend/SKILL.md
+../../../claude-skills/engineering-team/senior-frontend/SKILL.md

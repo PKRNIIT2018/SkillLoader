@@ -1,1 +1,1 @@
-../../../product-team/product-discovery/SKILL.md
+../../../claude-skills/product-team/product-discovery/SKILL.md

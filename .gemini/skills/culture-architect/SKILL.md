@@ -1,1 +1,1 @@
-../../../c-level-advisor/culture-architect/SKILL.md
+../../../claude-skills/c-level-advisor/culture-architect/SKILL.md

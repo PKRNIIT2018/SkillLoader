@@ -1,1 +1,1 @@
-../../../commands/financial-health.md
+../../../claude-skills/commands/financial-health.md

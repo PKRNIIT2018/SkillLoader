@@ -1,1 +1,1 @@
-../../../commands/prd.md
+../../../claude-skills/commands/prd.md

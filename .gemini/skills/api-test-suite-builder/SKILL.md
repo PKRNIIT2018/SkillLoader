@@ -1,1 +1,1 @@
-../../../engineering/api-test-suite-builder/SKILL.md
+../../../claude-skills/engineering/api-test-suite-builder/SKILL.md

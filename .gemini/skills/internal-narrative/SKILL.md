@@ -1,1 +1,1 @@
-../../../c-level-advisor/internal-narrative/SKILL.md
+../../../claude-skills/c-level-advisor/internal-narrative/SKILL.md

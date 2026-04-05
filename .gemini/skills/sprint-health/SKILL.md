@@ -1,1 +1,1 @@
-../../../commands/sprint-health.md
+../../../claude-skills/commands/sprint-health.md

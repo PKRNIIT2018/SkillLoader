@@ -1,1 +1,1 @@
-../../../engineering-team/google-workspace-cli/SKILL.md
+../../../claude-skills/engineering-team/google-workspace-cli/SKILL.md

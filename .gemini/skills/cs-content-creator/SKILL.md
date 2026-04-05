@@ -1,1 +1,1 @@
-../../../agents/marketing/cs-content-creator.md
+../../../claude-skills/agents/marketing/cs-content-creator.md

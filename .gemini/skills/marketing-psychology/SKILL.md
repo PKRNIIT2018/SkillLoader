@@ -1,1 +1,1 @@
-../../../marketing-skill/marketing-psychology/SKILL.md
+../../../claude-skills/marketing-skill/marketing-psychology/SKILL.md

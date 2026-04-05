@@ -1,1 +1,1 @@
-../../../agents/personas/devops-engineer.md
+../../../claude-skills/agents/personas/devops-engineer.md

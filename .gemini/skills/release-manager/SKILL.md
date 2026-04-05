@@ -1,1 +1,1 @@
-../../../engineering/release-manager/SKILL.md
+../../../claude-skills/engineering/release-manager/SKILL.md

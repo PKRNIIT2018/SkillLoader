@@ -1,1 +1,1 @@
-../../../c-level-advisor/chief-of-staff/SKILL.md
+../../../claude-skills/c-level-advisor/chief-of-staff/SKILL.md

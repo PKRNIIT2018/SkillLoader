@@ -1,1 +1,1 @@
-../../../agents/personas/finance-lead.md
+../../../claude-skills/agents/personas/finance-lead.md

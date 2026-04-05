@@ -1,1 +1,1 @@
-../../../commands/saas-health.md
+../../../claude-skills/commands/saas-health.md

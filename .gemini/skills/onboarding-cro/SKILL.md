@@ -1,1 +1,1 @@
-../../../marketing-skill/onboarding-cro/SKILL.md
+../../../claude-skills/marketing-skill/onboarding-cro/SKILL.md

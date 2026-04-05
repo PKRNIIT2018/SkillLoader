@@ -1,1 +1,1 @@
-../../../product-team/research-summarizer/SKILL.md
+../../../claude-skills/product-team/research-summarizer/SKILL.md

@@ -1,1 +1,1 @@
-../../../commands/sprint-plan.md
+../../../claude-skills/commands/sprint-plan.md

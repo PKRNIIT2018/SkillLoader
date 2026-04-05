@@ -1,1 +1,1 @@
-../../../engineering-team/senior-computer-vision/SKILL.md
+../../../claude-skills/engineering-team/senior-computer-vision/SKILL.md

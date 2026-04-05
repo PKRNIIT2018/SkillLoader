@@ -1,1 +1,1 @@
-../../../marketing-skill/social-media-analyzer/SKILL.md
+../../../claude-skills/marketing-skill/social-media-analyzer/SKILL.md

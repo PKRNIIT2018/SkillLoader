@@ -1,1 +1,1 @@
-../../../engineering/tech-debt-tracker/SKILL.md
+../../../claude-skills/engineering/tech-debt-tracker/SKILL.md

@@ -1,1 +1,1 @@
-../../../project-management/scrum-master/SKILL.md
+../../../claude-skills/project-management/scrum-master/SKILL.md

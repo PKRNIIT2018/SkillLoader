@@ -33,7 +33,8 @@ from pathlib import Path
 from typing import Optional
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
-ROOT        = Path(__file__).parent
+# SKILLLOADER_HOME lets the script work from any location (e.g. ~/bin/)
+ROOT        = Path(os.environ.get("SKILLLOADER_HOME", Path(__file__).parent)).expanduser().resolve()
 SKILLS_DIR  = ROOT / ".gemini" / "skills"
 INDEX_FILE  = ROOT / ".gemini" / "skills-index.json"
 
@@ -605,10 +606,10 @@ def get_skill(name: str) -> Optional[dict]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        prog="skills_sdk",
-        description="SkillLoader SDK — discover, search, and export skills",
+        prog="skills_loader",
+        description="SkillLoader — deploy and manage SKILL.md skills.\nRun with no arguments to deploy skills into the current project.",
     )
-    sub = parser.add_subparsers(dest="command", required=True)
+    sub = parser.add_subparsers(dest="command")
 
     sub.add_parser("categories", help="List all categories with skill counts")
 
@@ -662,6 +663,12 @@ def main() -> None:
     )
 
     args = parser.parse_args()
+
+    # Default: deploy to current directory
+    if not args.command:
+        args.command = "deploy"
+        args.project = None
+
     catalog = build_catalog()
 
     dispatch = {

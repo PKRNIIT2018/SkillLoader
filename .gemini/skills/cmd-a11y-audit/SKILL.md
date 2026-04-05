@@ -1,1 +1,1 @@
-../../../commands/a11y-audit.md
+../../../claude-skills/commands/a11y-audit.md

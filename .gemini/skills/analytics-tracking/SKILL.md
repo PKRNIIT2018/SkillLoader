@@ -1,1 +1,1 @@
-../../../marketing-skill/analytics-tracking/SKILL.md
+../../../claude-skills/marketing-skill/analytics-tracking/SKILL.md

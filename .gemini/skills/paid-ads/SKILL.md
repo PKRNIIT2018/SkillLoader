@@ -1,1 +1,1 @@
-../../../marketing-skill/paid-ads/SKILL.md
+../../../claude-skills/marketing-skill/paid-ads/SKILL.md

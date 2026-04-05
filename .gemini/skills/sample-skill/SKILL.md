@@ -1,1 +1,1 @@
-../../../engineering/skill-tester/assets/sample-skill/SKILL.md
+../../../claude-skills/engineering/skill-tester/assets/sample-skill/SKILL.md

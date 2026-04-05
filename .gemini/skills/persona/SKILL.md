@@ -1,1 +1,1 @@
-../../../commands/persona.md
+../../../claude-skills/commands/persona.md

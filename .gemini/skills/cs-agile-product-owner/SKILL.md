@@ -1,1 +1,1 @@
-../../../agents/product/cs-agile-product-owner.md
+../../../claude-skills/agents/product/cs-agile-product-owner.md

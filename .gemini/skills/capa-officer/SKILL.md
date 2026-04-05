@@ -1,1 +1,1 @@
-../../../ra-qm-team/capa-officer/SKILL.md
+../../../claude-skills/ra-qm-team/capa-officer/SKILL.md

@@ -1,1 +1,1 @@
-../../../agents/marketing/cs-demand-gen-specialist.md
+../../../claude-skills/agents/marketing/cs-demand-gen-specialist.md

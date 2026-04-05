@@ -1,1 +1,1 @@
-../../../agents/personas/README.md
+../../../claude-skills/agents/personas/README.md

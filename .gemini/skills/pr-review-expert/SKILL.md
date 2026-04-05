@@ -1,1 +1,1 @@
-../../../engineering/pr-review-expert/SKILL.md
+../../../claude-skills/engineering/pr-review-expert/SKILL.md

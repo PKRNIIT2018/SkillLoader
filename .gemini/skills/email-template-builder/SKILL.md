@@ -1,1 +1,1 @@
-../../../engineering-team/email-template-builder/SKILL.md
+../../../claude-skills/engineering-team/email-template-builder/SKILL.md

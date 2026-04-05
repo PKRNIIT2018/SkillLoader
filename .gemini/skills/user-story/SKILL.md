@@ -1,1 +1,1 @@
-../../../commands/user-story.md
+../../../claude-skills/commands/user-story.md

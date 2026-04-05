@@ -1,1 +1,1 @@
-../../../c-level-advisor/scenario-war-room/SKILL.md
+../../../claude-skills/c-level-advisor/scenario-war-room/SKILL.md

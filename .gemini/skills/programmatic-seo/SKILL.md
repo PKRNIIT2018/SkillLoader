@@ -1,1 +1,1 @@
-../../../marketing-skill/programmatic-seo/SKILL.md
+../../../claude-skills/marketing-skill/programmatic-seo/SKILL.md

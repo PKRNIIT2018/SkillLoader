@@ -1,1 +1,1 @@
-../../../commands/rice.md
+../../../claude-skills/commands/rice.md

@@ -1,1 +1,1 @@
-../../../commands/project-health.md
+../../../claude-skills/commands/project-health.md

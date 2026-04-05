@@ -1,1 +1,1 @@
-../../../agents/personas/startup-cto.md
+../../../claude-skills/agents/personas/startup-cto.md

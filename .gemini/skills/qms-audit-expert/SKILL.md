@@ -1,1 +1,1 @@
-../../../ra-qm-team/qms-audit-expert/SKILL.md
+../../../claude-skills/ra-qm-team/qms-audit-expert/SKILL.md

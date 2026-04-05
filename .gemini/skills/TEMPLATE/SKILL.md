@@ -1,1 +1,1 @@
-../../../agents/personas/TEMPLATE.md
+../../../claude-skills/agents/personas/TEMPLATE.md

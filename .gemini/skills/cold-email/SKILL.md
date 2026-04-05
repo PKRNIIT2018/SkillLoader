@@ -1,1 +1,1 @@
-../../../marketing-skill/cold-email/SKILL.md
+../../../claude-skills/marketing-skill/cold-email/SKILL.md

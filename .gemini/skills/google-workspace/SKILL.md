@@ -1,1 +1,1 @@
-../../../commands/google-workspace.md
+../../../claude-skills/commands/google-workspace.md

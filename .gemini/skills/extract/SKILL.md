@@ -1,1 +1,1 @@
-../../../engineering-team/self-improving-agent/skills/extract/SKILL.md
+../../../claude-skills/engineering-team/self-improving-agent/skills/extract/SKILL.md

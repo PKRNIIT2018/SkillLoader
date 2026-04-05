@@ -1,1 +1,1 @@
-../../../engineering-team/senior-security/SKILL.md
+../../../claude-skills/engineering-team/senior-security/SKILL.md

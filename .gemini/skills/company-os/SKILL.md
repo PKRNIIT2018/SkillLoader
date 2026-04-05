@@ -1,1 +1,1 @@
-../../../c-level-advisor/company-os/SKILL.md
+../../../claude-skills/c-level-advisor/company-os/SKILL.md

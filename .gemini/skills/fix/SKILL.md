@@ -1,1 +1,1 @@
-../../../engineering-team/playwright-pro/skills/fix/SKILL.md
+../../../claude-skills/engineering-team/playwright-pro/skills/fix/SKILL.md

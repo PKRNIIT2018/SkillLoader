@@ -1,1 +1,1 @@
-../../../agents/product/cs-ux-researcher.md
+../../../claude-skills/agents/product/cs-ux-researcher.md

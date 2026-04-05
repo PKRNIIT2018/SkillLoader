@@ -1,1 +1,1 @@
-../../../ra-qm-team/quality-manager-qmr/SKILL.md
+../../../claude-skills/ra-qm-team/quality-manager-qmr/SKILL.md

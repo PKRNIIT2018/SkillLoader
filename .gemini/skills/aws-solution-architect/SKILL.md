@@ -1,1 +1,1 @@
-../../../engineering-team/aws-solution-architect/SKILL.md
+../../../claude-skills/engineering-team/aws-solution-architect/SKILL.md

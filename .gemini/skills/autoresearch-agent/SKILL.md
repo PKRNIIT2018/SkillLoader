@@ -1,1 +1,1 @@
-../../../engineering/autoresearch-agent/SKILL.md
+../../../claude-skills/engineering/autoresearch-agent/SKILL.md

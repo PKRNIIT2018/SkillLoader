@@ -1,1 +1,1 @@
-../../../finance/saas-metrics-coach/SKILL.md
+../../../claude-skills/finance/saas-metrics-coach/SKILL.md

@@ -1,1 +1,1 @@
-../../../marketing-skill/marketing-strategy-pmm/SKILL.md
+../../../claude-skills/marketing-skill/marketing-strategy-pmm/SKILL.md

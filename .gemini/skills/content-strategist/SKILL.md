@@ -1,1 +1,1 @@
-../../../agents/personas/content-strategist.md
+../../../claude-skills/agents/personas/content-strategist.md

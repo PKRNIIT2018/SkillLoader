@@ -1,1 +1,1 @@
-../../../marketing-skill/referral-program/SKILL.md
+../../../claude-skills/marketing-skill/referral-program/SKILL.md

@@ -1,1 +1,1 @@
-../../../marketing-skill/popup-cro/SKILL.md
+../../../claude-skills/marketing-skill/popup-cro/SKILL.md

@@ -1,1 +1,1 @@
-../../../ra-qm-team/soc2-compliance/SKILL.md
+../../../claude-skills/ra-qm-team/soc2-compliance/SKILL.md

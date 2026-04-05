@@ -1,1 +1,1 @@
-../../../ra-qm-team/quality-documentation-manager/SKILL.md
+../../../claude-skills/ra-qm-team/quality-documentation-manager/SKILL.md

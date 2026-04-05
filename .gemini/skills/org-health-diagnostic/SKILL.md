@@ -1,1 +1,1 @@
-../../../c-level-advisor/org-health-diagnostic/SKILL.md
+../../../claude-skills/c-level-advisor/org-health-diagnostic/SKILL.md

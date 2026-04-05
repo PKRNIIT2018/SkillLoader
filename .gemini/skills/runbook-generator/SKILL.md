@@ -1,1 +1,1 @@
-../../../engineering/runbook-generator/SKILL.md
+../../../claude-skills/engineering/runbook-generator/SKILL.md

@@ -1,1 +1,1 @@
-../../../business-growth/SKILL.md
+../../../claude-skills/business-growth/SKILL.md

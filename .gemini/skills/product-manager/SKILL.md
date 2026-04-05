@@ -1,1 +1,1 @@
-../../../agents/personas/product-manager.md
+../../../claude-skills/agents/personas/product-manager.md

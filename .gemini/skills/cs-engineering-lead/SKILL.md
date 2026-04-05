@@ -1,1 +1,1 @@
-../../../agents/engineering-team/cs-engineering-lead.md
+../../../claude-skills/agents/engineering-team/cs-engineering-lead.md

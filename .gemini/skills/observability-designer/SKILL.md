@@ -1,1 +1,1 @@
-../../../engineering/observability-designer/SKILL.md
+../../../claude-skills/engineering/observability-designer/SKILL.md

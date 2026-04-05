@@ -1,1 +1,1 @@
-../../../engineering/monorepo-navigator/SKILL.md
+../../../claude-skills/engineering/monorepo-navigator/SKILL.md

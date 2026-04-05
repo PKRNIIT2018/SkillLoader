@@ -1,1 +1,1 @@
-../../../marketing-skill/schema-markup/SKILL.md
+../../../claude-skills/marketing-skill/schema-markup/SKILL.md

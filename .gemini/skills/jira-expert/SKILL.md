@@ -1,1 +1,1 @@
-../../../project-management/jira-expert/SKILL.md
+../../../claude-skills/project-management/jira-expert/SKILL.md

@@ -1,1 +1,1 @@
-../../../engineering/browser-automation/SKILL.md
+../../../claude-skills/engineering/browser-automation/SKILL.md

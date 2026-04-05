@@ -1,1 +1,1 @@
-../../../business-growth/contract-and-proposal-writer/SKILL.md
+../../../claude-skills/business-growth/contract-and-proposal-writer/SKILL.md

@@ -1,1 +1,1 @@
-../../../c-level-advisor/executive-mentor/SKILL.md
+../../../claude-skills/c-level-advisor/executive-mentor/SKILL.md

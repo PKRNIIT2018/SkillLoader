@@ -1,1 +1,1 @@
-../../../commands/competitive-matrix.md
+../../../claude-skills/commands/competitive-matrix.md

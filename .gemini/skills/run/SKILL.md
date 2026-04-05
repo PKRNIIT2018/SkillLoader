@@ -1,1 +1,1 @@
-../../../engineering/agenthub/skills/run/SKILL.md
+../../../claude-skills/engineering/agenthub/skills/run/SKILL.md

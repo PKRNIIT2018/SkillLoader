@@ -1,1 +1,1 @@
-../../../finance/financial-analyst/SKILL.md
+../../../claude-skills/finance/financial-analyst/SKILL.md

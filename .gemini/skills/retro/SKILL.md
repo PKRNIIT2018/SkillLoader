@@ -1,1 +1,1 @@
-../../../commands/retro.md
+../../../claude-skills/commands/retro.md

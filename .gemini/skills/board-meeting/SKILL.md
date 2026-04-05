@@ -1,1 +1,1 @@
-../../../c-level-advisor/board-meeting/SKILL.md
+../../../claude-skills/c-level-advisor/board-meeting/SKILL.md

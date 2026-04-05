@@ -1,1 +1,1 @@
-../../../agents/finance/cs-financial-analyst.md
+../../../claude-skills/agents/finance/cs-financial-analyst.md

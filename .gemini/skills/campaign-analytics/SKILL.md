@@ -1,1 +1,1 @@
-../../../marketing-skill/campaign-analytics/SKILL.md
+../../../claude-skills/marketing-skill/campaign-analytics/SKILL.md

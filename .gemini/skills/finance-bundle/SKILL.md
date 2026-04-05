@@ -1,1 +1,1 @@
-../../../finance/SKILL.md
+../../../claude-skills/finance/SKILL.md

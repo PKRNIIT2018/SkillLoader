@@ -1,1 +1,1 @@
-../../../marketing-skill/site-architecture/SKILL.md
+../../../claude-skills/marketing-skill/site-architecture/SKILL.md

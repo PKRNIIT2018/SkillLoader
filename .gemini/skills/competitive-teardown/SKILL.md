@@ -1,1 +1,1 @@
-../../../product-team/competitive-teardown/SKILL.md
+../../../claude-skills/product-team/competitive-teardown/SKILL.md

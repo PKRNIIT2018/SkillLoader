@@ -1,1 +1,1 @@
-../../../product-team/roadmap-communicator/SKILL.md
+../../../claude-skills/product-team/roadmap-communicator/SKILL.md

@@ -1,1 +1,1 @@
-../../../commands/pipeline.md
+../../../claude-skills/commands/pipeline.md

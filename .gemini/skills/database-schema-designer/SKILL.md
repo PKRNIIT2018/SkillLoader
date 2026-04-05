@@ -1,1 +1,1 @@
-../../../engineering/database-schema-designer/SKILL.md
+../../../claude-skills/engineering/database-schema-designer/SKILL.md

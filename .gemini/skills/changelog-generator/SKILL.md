@@ -1,1 +1,1 @@
-../../../engineering/changelog-generator/SKILL.md
+../../../claude-skills/engineering/changelog-generator/SKILL.md

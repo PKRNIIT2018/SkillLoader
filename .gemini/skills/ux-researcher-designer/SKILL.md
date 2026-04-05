@@ -1,1 +1,1 @@
-../../../product-team/ux-researcher-designer/SKILL.md
+../../../claude-skills/product-team/ux-researcher-designer/SKILL.md

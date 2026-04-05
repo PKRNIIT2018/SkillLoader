@@ -1,1 +1,1 @@
-../../../c-level-advisor/decision-logger/SKILL.md
+../../../claude-skills/c-level-advisor/decision-logger/SKILL.md

@@ -1,1 +1,1 @@
-../../../engineering-team/code-reviewer/SKILL.md
+../../../claude-skills/engineering-team/code-reviewer/SKILL.md

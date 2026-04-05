@@ -1,1 +1,1 @@
-../../../ra-qm-team/information-security-manager-iso27001/SKILL.md
+../../../claude-skills/ra-qm-team/information-security-manager-iso27001/SKILL.md

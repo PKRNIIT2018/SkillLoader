@@ -1,1 +1,1 @@
-../../../commands/tech-debt.md
+../../../claude-skills/commands/tech-debt.md

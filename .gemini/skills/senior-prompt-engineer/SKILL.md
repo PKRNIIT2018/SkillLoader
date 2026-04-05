@@ -1,1 +1,1 @@
-../../../engineering-team/senior-prompt-engineer/SKILL.md
+../../../claude-skills/engineering-team/senior-prompt-engineer/SKILL.md

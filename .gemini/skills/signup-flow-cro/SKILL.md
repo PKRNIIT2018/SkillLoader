@@ -1,1 +1,1 @@
-../../../marketing-skill/signup-flow-cro/SKILL.md
+../../../claude-skills/marketing-skill/signup-flow-cro/SKILL.md

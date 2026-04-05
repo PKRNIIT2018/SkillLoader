@@ -1,1 +1,1 @@
-../../../product-team/agile-product-owner/SKILL.md
+../../../claude-skills/product-team/agile-product-owner/SKILL.md

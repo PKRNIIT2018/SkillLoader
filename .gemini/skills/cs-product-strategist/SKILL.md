@@ -1,1 +1,1 @@
-../../../agents/product/cs-product-strategist.md
+../../../claude-skills/agents/product/cs-product-strategist.md

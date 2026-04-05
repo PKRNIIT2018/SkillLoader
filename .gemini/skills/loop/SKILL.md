@@ -1,1 +1,1 @@
-../../../engineering/autoresearch-agent/skills/loop/SKILL.md
+../../../claude-skills/engineering/autoresearch-agent/skills/loop/SKILL.md

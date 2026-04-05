@@ -1,1 +1,1 @@
-../../../agents/c-level/cs-ceo-advisor.md
+../../../claude-skills/agents/c-level/cs-ceo-advisor.md

@@ -1,1 +1,1 @@
-../../../engineering-team/senior-secops/SKILL.md
+../../../claude-skills/engineering-team/senior-secops/SKILL.md

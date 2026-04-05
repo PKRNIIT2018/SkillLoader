@@ -1,1 +1,1 @@
-../../../agents/ra-qm-team/cs-quality-regulatory.md
+../../../claude-skills/agents/ra-qm-team/cs-quality-regulatory.md

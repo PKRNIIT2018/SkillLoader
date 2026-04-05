@@ -1,1 +1,1 @@
-../../../engineering/codebase-onboarding/SKILL.md
+../../../claude-skills/engineering/codebase-onboarding/SKILL.md

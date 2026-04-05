@@ -1,1 +1,1 @@
-../../../c-level-advisor/founder-coach/SKILL.md
+../../../claude-skills/c-level-advisor/founder-coach/SKILL.md

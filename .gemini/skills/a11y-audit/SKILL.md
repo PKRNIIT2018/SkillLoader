@@ -1,1 +1,1 @@
-../../../engineering-team/a11y-audit/SKILL.md
+../../../claude-skills/engineering-team/a11y-audit/SKILL.md

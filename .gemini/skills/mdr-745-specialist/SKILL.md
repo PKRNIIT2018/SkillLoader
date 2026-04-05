@@ -1,1 +1,1 @@
-../../../ra-qm-team/mdr-745-specialist/SKILL.md
+../../../claude-skills/ra-qm-team/mdr-745-specialist/SKILL.md

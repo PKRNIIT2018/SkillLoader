@@ -1,1 +1,1 @@
-../../../engineering/helm-chart-builder/SKILL.md
+../../../claude-skills/engineering/helm-chart-builder/SKILL.md

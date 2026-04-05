@@ -1,1 +1,1 @@
-../../../marketing-skill/churn-prevention/SKILL.md
+../../../claude-skills/marketing-skill/churn-prevention/SKILL.md

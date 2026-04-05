@@ -1,1 +1,1 @@
-../../../agents/personas/growth-marketer.md
+../../../claude-skills/agents/personas/growth-marketer.md
